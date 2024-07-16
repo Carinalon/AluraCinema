@@ -1,0 +1,23 @@
+.footer {
+    background-color: var(--negro);
+    display: flex;
+    justify-content: space-between; 
+    height: 50px;
+   
+}
+
+.footer h2 {
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    margin: 15px;
+    
+}
+.footer img{
+    width: 35px;
+    height: 20px;
+    flex-shrink: 0;
+    align-self: center;
+    margin: 15px;
+}
+
